@@ -1,0 +1,23 @@
+{
+  "name": "go-dev-ver2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://satumahayato010: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@github.com/satumahayato010/go-dev-ver2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/satumahayato010/go-dev-ver2/issues"
+  },
+  "homepage": "https://github.com/satumahayato010/go-dev-ver2#readme",
+  "devDependencies": {
+    "ts-node": "^10.9.1"
+  }
+}
